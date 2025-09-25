@@ -20,8 +20,11 @@ Deployed Address:
 
 Verification
 Flarescan: https://flarescan.com/token/0x37E43D91180171211b207670420824369DA80176/contract/code?type=erc20&chainid=14 
+
 Sourcify: https://sourcify.dev/#/lookup/0x37E43D91180171211b207670420824369DA80176 
+
 Routescan: https://routescan.io/address/0x37E43D91180171211b207670420824369DA80176/contract/14/code
+
 
 Flattened source files used for verification are included in this repo for transparency.
 
