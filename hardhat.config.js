@@ -1,15 +1,17 @@
 require("dotenv").config();
-//require("@nomicfoundation/hardhat-toolbox");
+require("@nomicfoundation/hardhat-toolbox");
 //require("@nomiclabs/hardhat-etherscan");
+require("@nomicfoundation/hardhat-verify");
 
 module.exports = {
   solidity: {
     version: "0.8.30",
     settings: {
       optimizer: {
-        enabled: true,
+        enabled: false,
         runs: 200,
       },
+      evmVersion: "london"
     },
   },
   networks: {
