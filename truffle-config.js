@@ -20,7 +20,7 @@ module.exports = {
           enabled: false,    // ✅ must be false
           runs: 200,
         },
-        evmVersion: "prague" // ✅ must match metadata
+        evmVersion: "Prague" // ✅ must match metadata
       },
     },
   },
