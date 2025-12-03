@@ -1,4 +1,6 @@
-# Wallet Street Cousin — Contracts
+#Attention, this contract is now Defunct. WSC V2 is the only Wallet Street Cousin Contract live and trading 
+
+Wallet Street Cousin — Contracts
 
 This repository contains the smart contract sources and verification files for the **Wallet Street Cousin (WSC)** token, deployed on the Flare Network.  
 
